@@ -1,0 +1,162 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/* Global styles */
+body {
+    font-family: 'Proza Libre', sans-serif;
+    background-color: lightgrey;
+    color: #333;
+}
+
+.container-fluid,
+.main-content,
+.home-footer {
+    background-color: lightgrey;
+    padding: 1rem;
+}
+
+/* Header styling */
+header {
+    background-image: url('rm373batch9-033.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 1rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    header {
+        height: 400px;
+    }
+}
+
+@media (min-width: 1200px) {
+    header {
+        height: 500px;
+    }
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: slategray !important;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 3rem;
+    }
+    h2 {
+        font-size: 2.2rem;
+    }
+}
+
+@media (min-width: 992px) {
+    h1 {
+        font-size: 3.5rem;
+    }
+    h2 {
+        font-size: 2.5rem;
+    }
+}
+
+/* Lists */
+li {
+    list-style-position: inside;
+    text-align: center;
+}
+
+/* Section and footer spacing */
+section, footer {
+    margin: 0;
+    padding: 0;
+}
+
+/* Content boxes (intro, skills, projects, resume) */
+.intro-box,
+.skills-box,
+.about-me-box,
+.resume-box {
+    width: 100%;
+    border: 10px solid #5d5d5d;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    background-color: white;
+    border-radius: 8px;
+}
+/* Responsive adjustments */
+@media (min-width: 768px) {
+    .intro-box,
+    .skills-box,
+    .projects-box,
+    .resume-box {
+        padding: 1.5rem;
+    }
+}
+
+/* Project and resume links */
+.about-me-box a,
+.resume-box a {
+    text-decoration: none !important;
+    word-break: break-word;
+}
+
+/* CTA Button */
+.cta-button {
+    display: inline-block;
+    background-color: slategray;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #3d3d3d;
+    color: #fff;
+}
+
+@media (max-width: 576px) {
+    .cta-button {
+        display: block;
+        width: 100%;
+        font-size: 1rem;
+        padding: 0.75rem;
+    }
+}
+
