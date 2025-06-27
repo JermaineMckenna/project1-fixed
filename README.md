@@ -39,6 +39,13 @@ Run this project locally copy repository:
 
 https://github.com/jermainemckenna/project1-fixed
 
+## 🖼️ Wireframe - 
+
+![Wireframe](assets/assets/css/wireframe.png)
+
+
+
+
 
 
 
