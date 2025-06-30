@@ -2,7 +2,31 @@
 
 ## 👨🏾‍💻 Jermaine Mckenna | Junior Web Developer
 
-### 📝 The purpose of this website is to draw attention of hirers and      recruiters in the hope of getting hired, my personal cv and previous projects will be highlighted on the website.
+### 📝 Projects Goal - 
+
+The purpose of this website is to draw attention of hirers and recruiters in the hope of getting hired, my personal cv and previous projects will be highlighted on the website.
+
+## 🧠 Primary Audience - 
+
+The type of audience i'm hoping to get for the website is Tech & Software recruiters.
+
+## 📒 User Stories - 
+
+- As a hiring manager, I want to quickly understand who Jermaine is and what he can do, so I can assess his suitability for a junior web development role.
+
+- As a recruiter, I want to see examples of Jermaine’s previous projects, so I can evaluate his coding skills and creativity.
+
+- As a potential employer, I want to view Jermaine’s resume/CV, so I can get a detailed overview of his education and experience.
+
+- As a tech lead, I want to view Jermaine’s GitHub profile, so I can see the quality and structure of his code and his collaboration habits.
+
+- As someone hiring for a junior developer, I want to contact Jermaine easily, so I can invite him to an interview.
+
+- As a visitor on mobile, I want to navigate the website smoothly, so I can view content without layout issues.
+
+- As a developer reviewing Jermaine’s portfolio, I want to understand what technologies he knows, so I can compare his skills with our team’s stack.
+
+- As a curious visitor, I want to know what kind of developer Jermaine is and what drives him, so I can get a sense of his personality and goals.
 
 ## :gear: Built Using - 
 
@@ -10,14 +34,15 @@
 - CSS3 (Styling and responsiveness)
 - Bootstrap 5 (Responsie layout)
 - Visual Studio Code (Code editor for development)
+- Figma (Wireframe)
 
 ## :star: Features - 
 - Fully Responsive to all devices (desktop, tablet and mobiles)
 - Navigation Bars to direct to other pages within the website (project and contact pages)
--Interactive buttons and links to other sites from within the page (projects)
--Clean, Simple layout
--Downloadable CV
--Media/other links to contact me
+- nteractive buttons and links to other sites from within the page (projects)
+- Clean, Simple layout
+- Downloadable CV
+- Media/other links to contact me
 
 ## 📸 Preview of homepage screenshot - 
  
@@ -42,6 +67,17 @@ https://github.com/jermainemckenna/project1-fixed
 ## 🖼️ Wireframe - 
 
 ![Wireframe](assets/assets/css/wireframe.png)
+
+## 📊 Performance - 
+
+![Performancetest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
+
+## 📁 Future Improvements - 
+
+- add a contact form with personalised message.
+- add blog section to give more detailed account of previous projects and learning
+- intergrate a backend e.g Node.js to potentially assist in adding a contact form.
+- to make the site full-stack with a performance of 100 on all devices
 
 
 
