@@ -1,4 +1,4 @@
-# computer: Project 1: Personal Website
+## 🌐 Project 1: Personal Website
 
 ## 👨🏾‍💻 Jermaine Mckenna | Junior Web Developer
 
