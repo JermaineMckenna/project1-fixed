@@ -32,9 +32,10 @@ The type of audience i'm hoping to get for the website is Tech & Software recrui
 
 - HTML 5 (Page structure)
 - CSS3 (Styling and responsiveness)
-- Bootstrap 5 (Responsie layout)
+- Bootstrap v5.3.3 (Responsie layout)
 - Visual Studio Code (Code editor for development)
 - Figma (Wireframe)
+- HTML & CSS Validators (Debug Codes)
 
 ## :star: Features - 
 - Fully Responsive to all devices (desktop, tablet and mobiles)
@@ -68,6 +69,7 @@ https://github.com/jermainemckenna/project1-fixed
 
 ![Wireframe](assets/assets/css/wireframe.png)
 
+
 ## 📊 Performance - 
 
 ![Performancetest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
@@ -85,12 +87,44 @@ After running my html & css codes through validators I picked out various faults
 
 ![performanceresults](assets/assets/css/Image%2002-07-2025%20at%2019.13.jpg)
 
+## 🪛 known Bugs - 
+
+When minimising the home page on some devices/desktops the header photo extends out of the header section.
+
 ## 📁 Future Improvements - 
 
-- add a contact form with personalised message.
+- add a more unique and specialised contact form
 - add blog section to give more detailed account of previous projects and learning
 - intergrate a backend e.g Node.js to potentially assist in adding a contact form.
-- to make the site full-stack with a performance of 100 on all devices
+- to make the site full-stack with a performance of 100 on all devices.
+
+## ✈️ Deployment - 
+
+The website was deployed through GitHub and has been made public and accessible to all using the link mentioned early in the README.
+
+## 🏦 Credits - 
+
+
+Bootstrap v5.3.3 was used to assemble the card/box layout which the website was based of.
+
+Google Fonts was also used through the CSS file to add style to a heading.
+
+## 🎞️ Content - 
+
+All content that was featured on this site had been personally written by myself.
+
+Emojis being added next to the headings in the README were helped identified from interenet/reddit comments.
+
+## 🤳🏾 Media - 
+
+The photos used on the website apart from the homepage header photo of myself, were sourced through the internet.
+
+## 👏🏾 Acknowledgements - 
+
+- My teacher at West Herts college
+- Tutor support at Code Institute for their support.
+
+
 
 
 
