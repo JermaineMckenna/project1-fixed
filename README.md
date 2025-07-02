@@ -81,8 +81,9 @@ After running my html & css codes through validators I picked out various faults
 ![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.34.jpg)
 ![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.27.jpg)
 
+## 🔋 Performance After Debug - 
 
-
+![performanceresults](assets/assets/css/Image%2002-07-2025%20at%2019.13.jpg)
 
 ## 📁 Future Improvements - 
 
