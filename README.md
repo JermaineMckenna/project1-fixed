@@ -79,7 +79,7 @@ After running my html & css codes through validators I picked out various faults
 ![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.24.jpg)
 ![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.28.jpg)
 ![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.34.jpg)
-![Debbugingtest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
+![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.27.jpg)
 
 
 
