@@ -38,7 +38,7 @@ The type of audience i'm hoping to get for the website is Tech & Software recrui
 - HTML & CSS Validators (Debug Codes)
 
 ## :star: Features - 
-- Fully Responsive to all devices (desktop, tablet and mobiles)
+- Responsive to most devices inc (desktop, and mobiles)
 - Navigation Bars to direct to other pages within the website (project and contact pages)
 - nteractive buttons and links to other sites from within the page (projects)
 - Clean, Simple layout
@@ -97,6 +97,7 @@ When minimising the home page on some devices/desktops the header photo extends 
 - add blog section to give more detailed account of previous projects and learning
 - intergrate a backend e.g Node.js to potentially assist in adding a contact form.
 - to make the site full-stack with a performance of 100 on all devices.
+- site to be fully responsive to all devices with no overlapping.
 
 ## ✈️ Deployment - 
 
