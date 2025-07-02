@@ -72,6 +72,18 @@ https://github.com/jermainemckenna/project1-fixed
 
 ![Performancetest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
 
+## 🐜 Debbugging - 
+
+After running my html & css codes through validators I picked out various faults and errors that had to be altered to give the site the best performance, the main faults which the validators picked up was a error to one of the header photos and heading codes which were excesively used, since these errors were identified the appropriate changes have been made.
+
+![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.24.jpg)
+![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.28.jpg)
+![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.34.jpg)
+![Debbugingtest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
+
+
+
+
 ## 📁 Future Improvements - 
 
 - add a contact form with personalised message.
