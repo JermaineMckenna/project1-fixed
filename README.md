@@ -73,8 +73,6 @@ https://github.com/jermainemckenna/project1-fixed
 
 ![Interactivity](assets/assets/css/Image%2006-07-2025%20at%2019.58.jpg)
 
-
-
 ## 📊 Performance - 
 
 ![Performancetest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
@@ -89,6 +87,8 @@ After running my html & css codes through validators I picked out various faults
 ![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.27.jpg)
 
 ## 🔋 Performance After Debug - 
+
+![performanceresults](assets/assets/css/html%20valid1.jpg)
 
 ![performanceresults](assets/assets/css/Image%2002-07-2025%20at%2019.13.jpg)
 
