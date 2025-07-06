@@ -103,6 +103,23 @@ When minimising the home page on some devices/desktops the header photo extends 
 
 The website was deployed through GitHub and has been made public and accessible to all using the link mentioned early in the README.
 
+This website was developed using vscode, which was then committed and pushed to GitHub using the GitPod terminal.
+GitHub Pages
+
+Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+
+Log in to GitHub and locate the GitHub Repository.
+
+At the top of the Repository, locate the Settings button on the menu.
+
+Scroll down the Settings page until you locate the Pages section.
+
+Under Source, click the dropdown called None and select Master Branch.
+
+The page will refresh automatically and generate a link to your website.
+
+
+
 ## 🏦 Credits - 
 
 
