@@ -89,8 +89,13 @@ After running my html & css codes through validators I picked out various faults
 ## 🔋 Performance After Debug - 
 
 ![performanceresults](assets/assets/css/html%20valid1.jpg)
+![performanceresults](assets/assets/css/html%20valid2.jpg)
+![performanceresults](assets/assets/css/html%20validator3.jpg)
+![performanceresults](assets/assets/css/css%20valid.jpg)
 
+![performanceresults](assets/assets/css/contactpr.jpg)
 ![performanceresults](assets/assets/css/Image%2002-07-2025%20at%2019.13.jpg)
+![performanceresults](assets/assets/css/projectspr.jpg)
 
 ## 🪛 known Bugs - 
 
