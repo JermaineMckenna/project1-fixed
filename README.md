@@ -133,7 +133,7 @@ The page will refresh automatically and generate a link to your website.
 ## 🏦 Credits - 
 
 
-Bootstrap v5.3.3 was used to assemble the card/box layout which the website was based of.
+Bootstrap v5.3.7 was used to assemble the card/box layout which the website was based of.
 
 Google Fonts was also used through the CSS file to add style to a heading.
 
