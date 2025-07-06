@@ -69,6 +69,11 @@ https://github.com/jermainemckenna/project1-fixed
 
 ![Wireframe](assets/assets/css/wireframe.png)
 
+## 📲 Interactivity -
+
+![Interactivity](assets/assets/css/Image%2006-07-2025%20at%2019.58.jpg)
+
+
 
 ## 📊 Performance - 
 
