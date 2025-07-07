@@ -28,6 +28,18 @@ The type of audience i'm hoping to get for the website is Tech & Software recrui
 
 - As a curious visitor, I want to know what kind of developer Jermaine is and what drives him, so I can get a sense of his personality and goals.
 
+## 📑 UX/UI - 
+
+![userstories](assets/assets/css/user1.jpg)
+
+![userstories](assets/assets/css/user2.jpg)
+
+![userstories](assets/assets/css/user3.jpg)
+
+![userstories](assets/assets/css/user4.jpg)
+
+![userstories](assets/assets/css/user5.jpg)
+
 ## :gear: Built Using - 
 
 - HTML 5 (Page structure)
