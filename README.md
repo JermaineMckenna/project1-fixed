@@ -40,6 +40,12 @@ The type of audience i'm hoping to get for the website is Tech & Software recrui
 
 ![userstories](assets/assets/css/user5.jpg)
 
+![userstories](assets/assets/css/ux1.jpeg)
+
+![userstories](assets/assets/css/ux2.jpeg)
+
+![userstories](assets/assets/css/ux3.jpeg)
+
 ## :gear: Built Using - 
 
 - HTML 5 (Page structure)
