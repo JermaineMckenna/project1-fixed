@@ -24,7 +24,7 @@ body {
 
 /* Header styling */
 header {
-    background-image: url('rm373batch9-033.jpg');
+    background-image: url('assets/backgroundphoto.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -70,6 +70,10 @@ h2 {
 
 h3 {
     font-size: 1.5rem;
+}
+
+.center-text {
+    text-align: center;
 }
 
 @media (min-width: 768px) {

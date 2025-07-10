@@ -30,21 +30,21 @@ The type of audience i'm hoping to get for the website is Tech & Software recrui
 
 ## 📑 UX/UI - 
 
-![userstories](assets/assets/css/user1.jpg)
+![userstories](assets/assets/css/assets/user1.jpg)
 
-![userstories](assets/assets/css/user2.jpg)
+![userstories](assets/assets/css/assets/user2.jpg)
 
-![userstories](assets/assets/css/user3.jpg)
+![userstories](assets/assets/css/assets/user3.jpg)
 
-![userstories](assets/assets/css/user4.jpg)
+![userstories](assets/assets/css/assets/user4.jpg)
 
-![userstories](assets/assets/css/user5.jpg)
+![userstories](assets/assets/css/assets/user5.jpg)
 
-![userstories](assets/assets/css/ux1.jpeg)
+![userstories](assets/assets/css/assets/ux1.jpeg)
 
-![userstories](assets/assets/css/ux2.jpeg)
+![userstories](assets/assets/css/assets/ux2.jpeg)
 
-![userstories](assets/assets/css/ux3.jpeg)
+![userstories](assets/assets/css/assets/ux3.jpeg)
 
 ## :gear: Built Using - 
 
@@ -65,7 +65,7 @@ The type of audience i'm hoping to get for the website is Tech & Software recrui
 
 ## 📸 Preview of homepage screenshot - 
  
- ![screenshot of homepage](assets/assets/css/58506306-BBA3-42DB-9432-5E46C6305F05.jpeg)
+ ![screenshot of homepage](assets/assets/css/assets/screenshot-homepage.jpeg)
 
 ## 🙋🏾‍♂️ Link to Site - 
 [live site](https://jermainemckenna.github.io/project1-fixed/)
@@ -85,35 +85,34 @@ https://github.com/jermainemckenna/project1-fixed
 
 ## 🖼️ Wireframe - 
 
-![Wireframe](assets/assets/css/wireframe.png)
+![Wireframe](assets/assets/css/assets/wireframe.png)
 
 ## 📲 Interactivity -
 
-![Interactivity](assets/assets/css/Image%2006-07-2025%20at%2019.58.jpg)
+![Interactivity](assets/assets/css/assets/interactivitydevices.jpg)
 
 ## 📊 Performance - 
 
-![Performancetest](assets/assets/css/Image%2030-06-2025%20at%2018.41.jpg)
+![Performancetest](assets/assets/css/assets/performanceupdate.jpg)
 
 ## 🐜 Debbugging - 
 
-After running my html & css codes through validators I picked out various faults and errors that had to be altered to give the site the best performance, the main faults which the validators picked up was a error to one of the header photos and heading codes which were excesively used, since these errors were identified the appropriate changes have been made.
+After running my html & css codes through validators I picked out various faults and errors that had to be altered to give the site the best performance, the main faults which the validators picked up was a error to one of the header photos and heading codes which were excesively used, since these errors were identified the appropriate changes have been made. No errors found through the CSS validator.
 
-![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.24.jpg)
-![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.28.jpg)
-![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.34.jpg)
-![Debbugingtest](assets/assets/css/Image%2002-07-2025%20at%2018.27.jpg)
+![Debbugingtest](assets/assets/css/assets/debugvl.jpg)
+![Debbugingtest](assets/assets/css/assets/debugvl2.jpg)
+![Debbugingtest](assets/assets/css/assets/debugvl3.jpg)
 
 ## 🔋 Performance After Debug - 
 
-![performanceresults](assets/assets/css/html%20valid1.jpg)
-![performanceresults](assets/assets/css/html%20valid2.jpg)
-![performanceresults](assets/assets/css/html%20validator3.jpg)
-![performanceresults](assets/assets/css/css%20valid.jpg)
+![performanceresults](assets/assets/css/assets/htmlvl1.jpg)
+![performanceresults](assets/assets/css/assets/htmlvl2.jpg)
+![performanceresults](assets/assets/css/assets/htmlvl3.jpg)
+![performanceresults](assets/assets/css/assets/cssvalid.jpg)
 
-![performanceresults](assets/assets/css/contactpr.jpg)
-![performanceresults](assets/assets/css/Image%2002-07-2025%20at%2019.13.jpg)
-![performanceresults](assets/assets/css/projectspr.jpg)
+![performanceresults](assets/assets/css/assets/vlcontact.jpg)
+![performanceresults](assets/assets/css/assets/debug2.jpg)
+![performanceresults](assets/assets/css/assets/vlproject.jpg)
 
 ## 🪛 known Bugs - 
 
