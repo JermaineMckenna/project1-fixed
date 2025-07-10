@@ -103,6 +103,10 @@ After running my html & css codes through validators I picked out various faults
 ![Debbugingtest](assets/assets/css/assets/debugvl2.jpg)
 ![Debbugingtest](assets/assets/css/assets/debugvl3.jpg)
 
+## ✅ Functionality - 
+
+![functionalitytest](assets/assets/css/assets/functionboxes.jpeg)
+
 ## 🔋 Performance After Debug - 
 
 ![performanceresults](assets/assets/css/assets/htmlvl1.jpg)
