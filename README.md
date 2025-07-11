@@ -105,7 +105,7 @@ After running my html & css codes through validators I picked out various faults
 
 ## ✅ Functionality - 
 
-![functionalitytest](assets/assets/css/assets/functionboxes.jpeg)
+![functionalitytest](assets/assets/css/assets/ftnew.pages)
 
 ## 🔋 Performance After Debug - 
 
